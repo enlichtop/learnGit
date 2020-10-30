@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 Edit online.
 Creating a new branch is quick.
+add merge
 
